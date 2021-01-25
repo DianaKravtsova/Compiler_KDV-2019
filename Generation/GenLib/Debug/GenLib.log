@@ -1,0 +1,22 @@
+﻿Сборка начата 19.12.2019 18:16:59.
+     1>Проект "D:\KDV_2019\Generation\GenLib\GenLib.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\GenLib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\GenLib.pdb" /Gd /TP /analyze- /FC /errorReport:prompt GenLib.cpp
+         GenLib.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\Lib.exe /OUT:"D:\KDV_2019\Generation\Debug\GenLib.lib" /NOLOGO Debug\GenLib.obj
+         GenLib.vcxproj -> D:\KDV_2019\Generation\Debug\GenLib.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "Debug\GenLib.pdb" в "D:\KDV_2019\Generation\Debug\GenLib.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\GenLib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\GenLib.tlog\GenLib.lastbuildstate".
+     1>Сборка проекта "D:\KDV_2019\Generation\GenLib\GenLib.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.18
